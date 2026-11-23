@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @froggydame22
 - 👀 I’m interested in STEM education
-- 🌱 I’m currently working on becoming a certificed Software Carpentaries Instructor. I am a STEM Librarian. 
 - 📫 email me @ lillyelinden@gmail.com
 
 <!---
